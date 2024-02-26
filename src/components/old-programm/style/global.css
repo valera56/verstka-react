@@ -20,7 +20,7 @@ a {
     text-decoration: none;
 }
 .header {
-    width:1920px;
+    width:100%;
     margin-top: 22px;
     display: flex;
     flex-direction: column;
@@ -84,7 +84,7 @@ a {
 
 .header-body-info {
     margin-top: 100px;
-    width: 1920px;
+    width: 100%;
     margin-left: 160px;
 
 }
@@ -139,7 +139,7 @@ a {
 
 }
 .section1-info1{
-    width: 1920px;
+    width: 100%;
 
 }
 
@@ -503,7 +503,7 @@ a {
 
 .section3 {
     display: flex;
-    width: 1920px;
+    width: 100%;
     flex-direction: column;
 }
 .section3-block1 {
@@ -663,6 +663,7 @@ a {
     background-color: rgba(39, 47, 55, 1);
     margin-top: 200px;
     padding-bottom: 70px;
+    width: 100%;
 }
 
 .botton-block1 {
@@ -840,6 +841,7 @@ a {
 .down {
     display: flex;
     background-color: rgba(29, 38, 48, 1);
+    width: 100%;
 }
 
 .down-block1 {
