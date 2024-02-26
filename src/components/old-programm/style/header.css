@@ -1,0 +1,119 @@
+.header {
+    width:1920px;
+    margin-top: 22px;
+    display: flex;
+    flex-direction: column;
+
+}
+.header-block {
+    width: 1599px;
+    margin-left: 160px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header-info {
+    display: flex;
+    align-items: center;
+
+}
+.header-info-button {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 213px;
+    height: 50px;
+    border-radius: 100px;
+    margin-left: 50px;
+    background-color: #FFD600;
+    border: none;
+}
+
+.button-icon {
+    margin-left: 20px;
+}
+.button-text{
+    margin-left: 15px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.header-info-p{
+    margin-left: 50px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.header-body {
+    width: 1920px;
+    margin-top: 22px;
+
+}
+
+
+.header-body-info {
+    margin-top: 100px;
+    width: 1920px;
+    margin-left: 160px;
+
+}
+.header-body-info-p1 {
+        width: 1220px;
+        font-family: Inter;
+font-size: 96px;
+font-weight: 900;
+line-height: 103px;
+letter-spacing: 0em;
+text-align: left;
+color:  #2A3848;
+;
+}
+
+
+.header-body-info-p2 {
+    width: 571px;
+    color: #687186;
+    font-family: Segoe UI;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.header-body-button {
+    background-color: #FFD600;
+    width: 290.94px;
+    height: 65.5px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+    border: none;
+
+}
+
+.header-body-button-p {
+
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 26px;
+letter-spacing: 0em;
+color: #333845;
+margin-left: auto;
+margin-right: auto;
+
+
+}
